@@ -48,5 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 ../env/
+env/
 App/migrations
 
