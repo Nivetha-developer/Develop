@@ -21,3 +21,5 @@ python manage.py migrate App
 python manage.py runserver
 
 
+## API REQUEST
+https://docs.google.com/spreadsheets/d/16Czs9MbGGBQ3lkhfd24lvbfuL7xZBDjPUUJYQX173JY/edit#gid=0
